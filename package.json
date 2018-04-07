@@ -1,0 +1,19 @@
+{
+  "name": "sampleNodeSocketTest",
+  "version": "0.0.0",
+  "description": "Exploring testing socket.io with NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rob Brennan <rob@therobbrennan.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "should": "^4.0.4",
+    "supertest": "~0.13.0"
+  },
+  "dependencies": {
+    "socket.io": "^1.0.6",
+    "socket.io-client": "^1.0.6"
+  }
+}
